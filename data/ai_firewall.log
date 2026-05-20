@@ -1,0 +1,309 @@
+2026-05-20T00:07:53 [INFO] Iniciando AIFirewall...
+2026-05-20T00:07:59 [INFO] Iniciando AIFirewall...
+2026-05-20T00:08:17 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:08:17 [INFO] Interfaz:       enp0s3
+2026-05-20T00:08:17 [INFO] Whitelist:      {'127.0.0.1', '192.168.56.1', '192.168.100.10', '192.168.100.1'}
+2026-05-20T00:08:17 [INFO] ==================================================
+2026-05-20T00:08:17 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:08:17 [INFO] ==================================================
+2026-05-20T00:08:31 [INFO] Iniciando AIFirewall...
+2026-05-20T00:08:42 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:08:42 [INFO] Interfaz:       enp0s3
+2026-05-20T00:08:42 [INFO] Whitelist:      {'192.168.56.1', '127.0.0.1', '192.168.100.1', '192.168.100.10'}
+2026-05-20T00:08:42 [INFO] ==================================================
+2026-05-20T00:08:42 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:08:42 [INFO] ==================================================
+2026-05-20T00:08:57 [INFO] Iniciando AIFirewall...
+2026-05-20T00:09:08 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:09:09 [INFO] Interfaz:       enp0s3
+2026-05-20T00:09:09 [INFO] Whitelist:      {'192.168.100.10', '192.168.100.1', '192.168.56.1', '127.0.0.1'}
+2026-05-20T00:09:09 [INFO] ==================================================
+2026-05-20T00:09:09 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:09:09 [INFO] ==================================================
+2026-05-20T00:09:23 [INFO] Iniciando AIFirewall...
+2026-05-20T00:09:35 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:09:35 [INFO] Interfaz:       enp0s3
+2026-05-20T00:09:35 [INFO] Whitelist:      {'127.0.0.1', '192.168.100.10', '192.168.100.1', '192.168.56.1'}
+2026-05-20T00:09:35 [INFO] ==================================================
+2026-05-20T00:09:35 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:09:35 [INFO] ==================================================
+2026-05-20T00:09:50 [INFO] Iniciando AIFirewall...
+2026-05-20T00:10:02 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:10:02 [INFO] Interfaz:       enp0s3
+2026-05-20T00:10:02 [INFO] Whitelist:      {'192.168.56.1', '127.0.0.1', '192.168.100.10', '192.168.100.1'}
+2026-05-20T00:10:02 [INFO] ==================================================
+2026-05-20T00:10:02 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:10:02 [INFO] ==================================================
+2026-05-20T00:10:16 [INFO] Iniciando AIFirewall...
+2026-05-20T00:10:26 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:10:26 [INFO] Interfaz:       enp0s3
+2026-05-20T00:10:26 [INFO] Whitelist:      {'192.168.100.10', '127.0.0.1', '192.168.100.1', '192.168.56.1'}
+2026-05-20T00:10:26 [INFO] ==================================================
+2026-05-20T00:10:26 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:10:26 [INFO] ==================================================
+2026-05-20T00:10:41 [INFO] Iniciando AIFirewall...
+2026-05-20T00:10:51 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:10:51 [INFO] Interfaz:       enp0s3
+2026-05-20T00:10:51 [INFO] Whitelist:      {'192.168.100.1', '127.0.0.1', '192.168.100.10', '192.168.56.1'}
+2026-05-20T00:10:51 [INFO] ==================================================
+2026-05-20T00:10:51 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:10:51 [INFO] ==================================================
+2026-05-20T00:11:06 [INFO] Iniciando AIFirewall...
+2026-05-20T00:11:17 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:11:17 [INFO] Interfaz:       enp0s3
+2026-05-20T00:11:17 [INFO] Whitelist:      {'192.168.56.1', '192.168.100.1', '127.0.0.1', '192.168.100.10'}
+2026-05-20T00:11:17 [INFO] ==================================================
+2026-05-20T00:11:17 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:11:17 [INFO] ==================================================
+2026-05-20T00:11:31 [INFO] Iniciando AIFirewall...
+2026-05-20T00:11:41 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:11:42 [INFO] Interfaz:       enp0s3
+2026-05-20T00:11:42 [INFO] Whitelist:      {'192.168.56.1', '127.0.0.1', '192.168.100.10', '192.168.100.1'}
+2026-05-20T00:11:42 [INFO] ==================================================
+2026-05-20T00:11:42 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:11:42 [INFO] ==================================================
+2026-05-20T00:11:56 [INFO] Iniciando AIFirewall...
+2026-05-20T00:12:07 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:12:07 [INFO] Interfaz:       enp0s3
+2026-05-20T00:12:07 [INFO] Whitelist:      {'192.168.100.10', '192.168.100.1', '192.168.56.1', '127.0.0.1'}
+2026-05-20T00:12:07 [INFO] ==================================================
+2026-05-20T00:12:07 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:12:07 [INFO] ==================================================
+2026-05-20T00:12:21 [INFO] Iniciando AIFirewall...
+2026-05-20T00:12:38 [INFO] Iniciando AIFirewall...
+2026-05-20T00:12:49 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:12:49 [INFO] Interfaz:       enp0s3
+2026-05-20T00:12:49 [INFO] Whitelist:      {'127.0.0.1', '192.168.56.1', '192.168.100.1', '192.168.100.10'}
+2026-05-20T00:12:49 [INFO] ==================================================
+2026-05-20T00:12:49 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:12:49 [INFO] ==================================================
+2026-05-20T00:13:19 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:13:30 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:14:21 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:14:31 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:15:31 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:15:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:16:32 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:16:42 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:17:33 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:17:43 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:18:24 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1800 | pkts=18 | syn_ratio=1.000 | ports=1
+2026-05-20T00:20:27 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1750 | pkts=44 | syn_ratio=1.000 | ports=1
+2026-05-20T00:20:41 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1750 | pkts=216 | syn_ratio=1.000 | ports=1
+2026-05-20T00:20:52 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1700 | pkts=311 | syn_ratio=1.000 | ports=1
+2026-05-20T00:21:10 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1550 | pkts=351 | syn_ratio=1.000 | ports=1
+2026-05-20T00:22:28 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1550 | pkts=385 | syn_ratio=1.000 | ports=1
+2026-05-20T00:25:35 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1550 | pkts=385 | syn_ratio=1.000 | ports=1
+2026-05-20T00:26:06 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:26:16 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:27:07 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:27:17 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:28:01 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-20T00:28:14 [INFO] Iniciando AIFirewall...
+2026-05-20T00:28:27 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-20T00:28:27 [INFO] Interfaz:       enp0s3
+2026-05-20T00:28:27 [INFO] Whitelist:      {'192.168.100.10', '192.168.100.1', '127.0.0.1', '192.168.56.1'}
+2026-05-20T00:28:27 [INFO] ==================================================
+2026-05-20T00:28:27 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-20T00:28:27 [INFO] ==================================================
+2026-05-20T00:29:12 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:29:17 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:29:28 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.0800 | pkts=11 | syn_ratio=1.000 | ports=1
+2026-05-20T00:35:32 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.0800 | pkts=11 | syn_ratio=1.000 | ports=1
+2026-05-20T00:35:37 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:35:42 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:36:44 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:36:49 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:37:44 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:37:49 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:38:50 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:38:55 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:39:55 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:40:00 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:40:25 [INFO] DECISION | ip=192.168.100.20 | action=BLOCK | prob=0.1750 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:40:25 [WARNING] BLOQUEADO | ip=192.168.100.20
+2026-05-20T00:40:25 [WARNING] BLOQUEADO | ip=192.168.100.20 | prob_attack=0.1750
+2026-05-20T00:41:01 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:41:06 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:42:01 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:42:06 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-20T00:42:08 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T19:42:19 [INFO] Iniciando AIFirewall...
+2026-05-19T19:42:30 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T19:42:30 [INFO] Interfaz:       enp0s3
+2026-05-19T19:42:30 [INFO] Whitelist:      {'192.168.100.10', '127.0.0.1', '192.168.100.1', '192.168.56.1'}
+2026-05-19T19:42:30 [INFO] ==================================================
+2026-05-19T19:42:30 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T19:42:30 [INFO] ==================================================
+2026-05-19T19:43:06 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:43:11 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:43:26 [INFO] DECISION | ip=192.168.100.20 | action=BLOCK | prob=0.2800 | pkts=48 | syn_ratio=1.000 | ports=1
+2026-05-19T19:43:27 [WARNING] BLOQUEADO | ip=192.168.100.20
+2026-05-19T19:43:27 [WARNING] BLOQUEADO | ip=192.168.100.20 | prob_attack=0.2800
+2026-05-19T19:44:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:44:14 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:44:49 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T19:44:58 [INFO] Iniciando AIFirewall...
+2026-05-19T19:45:08 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T19:45:08 [INFO] Interfaz:       enp0s3
+2026-05-19T19:45:08 [INFO] Whitelist:      {'127.0.0.1', '192.168.56.1', '192.168.100.10', '192.168.100.1'}
+2026-05-19T19:45:08 [INFO] ==================================================
+2026-05-19T19:45:08 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T19:45:08 [INFO] ==================================================
+2026-05-19T19:45:13 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:45:18 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:46:19 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:46:24 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:47:19 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:47:24 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:47:35 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.2000 | pkts=4 | syn_ratio=1.000 | ports=1
+2026-05-19T19:48:31 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.2000 | pkts=4 | syn_ratio=1.000 | ports=1
+2026-05-19T19:48:37 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.0800 | pkts=11 | syn_ratio=1.000 | ports=1
+2026-05-19T19:49:30 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.0800 | pkts=11 | syn_ratio=1.000 | ports=1
+2026-05-19T19:49:30 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:49:35 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:50:35 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:50:40 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:51:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:51:46 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:52:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:52:46 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:53:17 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T19:53:27 [INFO] Iniciando AIFirewall...
+2026-05-19T19:53:38 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T19:53:38 [INFO] Interfaz:       enp0s3
+2026-05-19T19:53:38 [INFO] Whitelist:      {'192.168.56.1', '127.0.0.1', '192.168.100.1', '192.168.100.10'}
+2026-05-19T19:53:38 [INFO] ==================================================
+2026-05-19T19:53:38 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T19:53:38 [INFO] ==================================================
+2026-05-19T19:53:48 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:53:58 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T19:55:44 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T20:36:00 [INFO] Iniciando AIFirewall...
+2026-05-19T20:36:17 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T20:36:17 [INFO] Interfaz:       enp0s3
+2026-05-19T20:36:17 [INFO] Whitelist:      {'192.168.56.1', '192.168.100.1', '192.168.100.10', '127.0.0.1'}
+2026-05-19T20:36:17 [INFO] ==================================================
+2026-05-19T20:36:17 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T20:36:17 [INFO] ==================================================
+2026-05-19T20:36:27 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:36:37 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:37:27 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:38:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:38:09 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.1800 | pkts=23 | syn_ratio=1.000 | ports=1
+2026-05-19T20:38:39 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T20:38:49 [INFO] Iniciando AIFirewall...
+2026-05-19T20:39:00 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T20:39:00 [INFO] Interfaz:       enp0s3
+2026-05-19T20:39:00 [INFO] Whitelist:      {'192.168.100.10', '192.168.56.1', '192.168.100.1', '127.0.0.1'}
+2026-05-19T20:39:00 [INFO] ==================================================
+2026-05-19T20:39:00 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T20:39:00 [INFO] ==================================================
+2026-05-19T20:39:30 [INFO] DECISION | ip=192.168.100.20 | action=BLOCK | prob=0.2800 | pkts=161 | syn_ratio=1.000 | ports=1
+2026-05-19T20:39:31 [WARNING] BLOQUEADO | ip=192.168.100.20
+2026-05-19T20:39:31 [WARNING] BLOQUEADO | ip=192.168.100.20 | prob_attack=0.2800
+2026-05-19T20:39:36 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:39:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:40:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:40:46 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:41:43 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:41:48 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:42:49 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:42:54 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:44:01 [INFO] Iniciando AIFirewall...
+2026-05-19T20:44:14 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T20:44:14 [INFO] Interfaz:       enp0s3
+2026-05-19T20:44:14 [INFO] Whitelist:      {'192.168.100.1', '192.168.56.1', '127.0.0.1', '192.168.100.10'}
+2026-05-19T20:44:14 [INFO] ==================================================
+2026-05-19T20:44:14 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T20:44:14 [INFO] ==================================================
+2026-05-19T20:45:00 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:45:05 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:45:10 [INFO] DECISION | ip=192.168.100.20 | action=BLOCK | prob=0.4500 | pkts=243 | syn_ratio=0.996 | ports=127
+2026-05-19T20:45:10 [WARNING] BLOQUEADO | ip=192.168.100.20
+2026-05-19T20:45:10 [WARNING] BLOQUEADO | ip=192.168.100.20 | prob_attack=0.4500
+2026-05-19T20:46:01 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:46:06 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:47:06 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:47:11 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:47:59 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T20:48:10 [INFO] Iniciando AIFirewall...
+2026-05-19T20:48:21 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T20:48:21 [INFO] Interfaz:       enp0s3
+2026-05-19T20:48:21 [INFO] Whitelist:      {'192.168.100.10', '127.0.0.1', '192.168.56.1', '192.168.100.1'}
+2026-05-19T20:48:21 [INFO] ==================================================
+2026-05-19T20:48:21 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T20:48:21 [INFO] ==================================================
+2026-05-19T20:48:41 [INFO] DECISION | ip=192.168.100.20 | action=ALLOW | prob=0.0500 | pkts=3 | syn_ratio=0.000 | ports=1
+2026-05-19T20:48:46 [INFO] DECISION | ip=192.168.100.20 | action=BLOCK | prob=0.4400 | pkts=934 | syn_ratio=0.999 | ports=498
+2026-05-19T20:48:46 [WARNING] BLOQUEADO | ip=192.168.100.20
+2026-05-19T20:48:46 [WARNING] BLOQUEADO | ip=192.168.100.20 | prob_attack=0.4400
+2026-05-19T20:49:12 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:49:17 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:50:17 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:50:23 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:50:58 [INFO] Apagando AIFirewall (fail-safe: nftables sigue activo)
+2026-05-19T20:51:08 [INFO] Iniciando AIFirewall...
+2026-05-19T20:51:19 [INFO] Modelo cargado: models/firewall_ai_model.joblib
+2026-05-19T20:51:19 [INFO] Interfaz:       enp0s3
+2026-05-19T20:51:19 [INFO] Whitelist:      {'192.168.56.1', '127.0.0.1', '192.168.100.10', '192.168.100.1'}
+2026-05-19T20:51:19 [INFO] ==================================================
+2026-05-19T20:51:19 [INFO] AIFirewall activo — monitoreando tráfico
+2026-05-19T20:51:19 [INFO] ==================================================
+2026-05-19T20:52:24 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:52:29 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:53:25 [INFO] DECISION | ip=192.168.100.20 | action=BLOCK | prob=0.2250 | pkts=72 | syn_ratio=0.097 | ports=1
+2026-05-19T20:53:25 [WARNING] BLOQUEADO | ip=192.168.100.20
+2026-05-19T20:53:25 [WARNING] BLOQUEADO | ip=192.168.100.20 | prob_attack=0.2250
+2026-05-19T20:53:25 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:53:30 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:54:31 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:54:36 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:55:36 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:55:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:56:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:56:47 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:57:42 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:57:47 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:58:47 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:58:52 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:59:53 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T20:59:58 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:00:53 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:00:58 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:01:58 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:02:03 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:03:04 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:03:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:04:04 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:04:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:05:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:05:14 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:06:15 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:06:20 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:07:20 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:07:25 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:08:25 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:08:30 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:09:31 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:09:36 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:11:36 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:11:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:12:41 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:12:47 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:13:47 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:13:52 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:14:47 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:14:52 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:15:52 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:15:57 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:16:53 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:16:58 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:17:58 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:18:03 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:19:03 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:19:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:20:04 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:20:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:21:09 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1
+2026-05-19T21:21:14 [INFO] DECISION | ip=0.0.0.0 | action=ALLOW | prob=0.1250 | pkts=1 | syn_ratio=0.000 | ports=1

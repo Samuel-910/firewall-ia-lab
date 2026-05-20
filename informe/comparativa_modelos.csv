@@ -1,0 +1,4 @@
+modelo,accuracy,recall,precision,f1,auc_roc,cumple
+Random Forest,1.0,1.0,1.0,1.0,1.0,True
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0,True
+Decision Tree,1.0,1.0,1.0,1.0,1.0,True

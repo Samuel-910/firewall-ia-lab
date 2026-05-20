@@ -1,0 +1,23 @@
+[Unit]
+Description=AI Firewall — Motor de deteccion inteligente
+Documentation=https://github.com/Samuel-910/firewall-ia-lab
+After=network.target nftables.service
+Requires=nftables.service
+
+[Service]
+Type=simple
+User=user
+WorkingDirectory=/home/user/firewall-ia-lab
+ExecStart=/home/user/firewall-ia-lab/venv/bin/python3 /home/user/firewall-ia-lab/ai_firewall.py
+Restart=on-failure
+RestartSec=5s
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=ai-firewall
+
+# Límites de recursos — RNF-03
+MemoryMax=256M
+CPUQuota=15%
+
+[Install]
+WantedBy=multi-user.target
